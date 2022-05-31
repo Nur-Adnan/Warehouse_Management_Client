@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d23c1bc.css",
+    "main.js": "/static/js/main.021bdf43.js",
+    "static/js/787.ac330549.chunk.js": "/static/js/787.ac330549.chunk.js",
+    "static/media/bmw_car_bumper.jpg": "/static/media/bmw_car_bumper.5e22b3127c4ff0863dbe.jpg",
+    "static/media/bmw.jpg": "/static/media/bmw.020d4ac95610a13f40e8.jpg",
+    "static/media/logo.png": "/static/media/logo.4aa4d7e0e1c35331bd89.png",
+    "index.html": "/index.html",
+    "main.3d23c1bc.css.map": "/static/css/main.3d23c1bc.css.map",
+    "main.021bdf43.js.map": "/static/js/main.021bdf43.js.map",
+    "787.ac330549.chunk.js.map": "/static/js/787.ac330549.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d23c1bc.css",
+    "static/js/main.021bdf43.js"
+  ]
+}

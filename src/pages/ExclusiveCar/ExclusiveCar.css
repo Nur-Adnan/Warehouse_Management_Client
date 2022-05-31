@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif&display=swap");
+* {
+  font-family: "PT Serif", serif;
+}
+img.exclu {
+  width: 95%;
+  box-shadow: 0px 0px 10px 4px #d8d8d8;
+  border-radius: 10px;
+}
