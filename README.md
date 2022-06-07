@@ -1,8 +1,8 @@
 Auto Dealer Premium REACT Template - Car Warehouse is the most enticing, creative, modern, and versatile template for any auto dealer website.
 
 # Live link (Firebase) - https://assignment11-8de4c.web.app/home
-# Client Side Code Link - https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-NUR01854311260
-# Server Side Code Link - https://github.com/ProgrammingHeroWC4/warehouse-management-server-side-NUR01854311260/
+# Client Side Code Link - https://github.com/Nur-Adnan/Warehouse_Management_Client
+# Server Side Code Link - https://github.com/Nur-Adnan/Warehouse_Management_Server_Side
 # Stack Overflow Link -https://stackoverflow.com/questions/72354452/how-to-redirect-after-successful-nodejs-if-statement-in-ajax
 
 
