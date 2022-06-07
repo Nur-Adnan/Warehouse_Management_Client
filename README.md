@@ -12,6 +12,12 @@ Whether you're looking for a car dealership website, a business website, or a co
 
 The Bootstrap 5 framework is currently being developed, and it is completely responsive on any platform. It is available in a variety of colors and layouts. You can easily modify the template to meet your specific requirements by using the comment codes included in each section. Innovative website-building tools combine with eye-catching design to help your business succeed online.
 
+# Functions and Structure of the Application:
+
+- You can add, manage, update available stock or delete items.
+- Login, registration and password reset system.
+- A user cannot access the required page if they are not authorized.
+
 # Technology used
 
 * ReactJS
